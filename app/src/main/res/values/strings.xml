@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Libros</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_more">Mas</string>
+    <string name="action_info">Informacion</string>
+    <string name="action_about">Acerca De</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+</resources>
